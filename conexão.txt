@@ -1,9 +1,5 @@
     Username: mGOTMf8biB
-
     Database name: mGOTMf8biB
-
     Password: rHrk6VmFzY
-
     Server: remotemysql.com
-
     Port: 3306
