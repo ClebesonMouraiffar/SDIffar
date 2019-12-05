@@ -4,8 +4,8 @@ $alunoControl = new AlunoControl();
 
 header('Content-type: application/json; charset=utf-8');
 
-foreach($alunoControl->findAll() as $valor){
-	echo json_encode($valor);
-}
+
+echo json_encode($alunoControl->findAll());
+
 
 ?>
